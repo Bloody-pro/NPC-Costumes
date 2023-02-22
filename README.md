@@ -25,7 +25,7 @@ skins:
     displayname: 'gravestone' 
     texture: 'gravestone.png'
     json: 'gravestone.json' 
-    identifier: 'gravestone.kitnpc' 
+    identifier: 'geometry.gravestone' 
 ```
 
 ### INGAME SETUP
